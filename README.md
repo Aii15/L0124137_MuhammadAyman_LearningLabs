@@ -29,3 +29,5 @@ Menampilkan informasi tentang pembelajaran dan nama pembuat.
 Script:
 
 Mengimpor pustaka ikon Boxicons untuk digunakan dalam halaman.
+
+SAYA MOHON MAAF KARENA ADA BEBERAPA ASSET YANG GAGAL MASUK KE GITHUB KARENA KESALAHAN TEKNIS
